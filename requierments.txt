@@ -1,0 +1,5 @@
+elasticsearch
+psycopg2-binary
+pymongo  
+streamlit
+dotenv 

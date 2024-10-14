@@ -1,0 +1,9 @@
+pymongo
+streamlit
+elasticsearch
+mistralai
+stqdm
+transformers
+ollama
+psycopg2
+openai
